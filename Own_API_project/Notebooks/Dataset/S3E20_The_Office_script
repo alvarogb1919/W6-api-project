@@ -1,0 +1,399 @@
+,scene,line_text,speaker
+0,1,[Dressed as Dwight] It's kind of blurry. [puts on his glasses] That's better. [exhales] Question.  What kind of bear is best?,Jim
+1,1,That's a ridiculous question.,Dwight
+2,1,False.  Black bear.,Jim
+3,1,Well that's debatable.  There are basically two schools of thought---,Dwight
+4,1,Fact.  Bears eat beets.  Bears.  Beets.  Battlestar Galactica.,Jim
+5,1,Bears do not--- What is going on--- What are you doing?!,Dwight
+6,2,"Last week, I was in a drug store and I saw these glasses.  Uh, four dollars.  And it only cost me seven dollars to recreate the rest of the ensemble.  And that's a grand total of... [Jim calculates the total on his calculator-watch] eleven dollars.",Jim
+7,3,"You know what?  Imitation is the most sincere form of flattery, so I thank you. [Jim places a bobble-head on his desk]  Identity theft is not a joke, Jim!  Millions of families suffer every year!",Dwight
+8,3,... MICHAEL!,Jim
+9,3,"Oh, that's funny.  MICHAEL!",Dwight
+10,4,"[on phone] Yes, I understand.  Can I transfer you to customer relations?",Pam
+11,4,[on phone] Absolutely.  I couldn't be more sorry about this.,Jim
+12,4,"[on phone] I know, I know.  We're all trying to get to the bottom of this.",Phyllis
+13,4,[on phone] I am upset.  Don't I sound upset?,Stanley
+14,4,"[on phone] It is disgusting.  I totally agree.  Well, we're going to recalling all of that paper.",Michael
+15,5,"We have a crisis.  Apparently, a disgruntled employee at the paper mill decided that it would be funny to put an obscene watermark on our 24 pound cream butter stock.  Five hundred boxes has gone out, with the image of a beloved cartoon duck, performing...  unspeakable acts upon a certain cartoon mouse that a lot of people like.  I've never been a fan.",Michael
+16,6,"Everybody in here.  STAT.  No time to lose.  Cri-Man-Squa.  F and C, doubletime.",Michael
+17,6,Cri-Man-Squa?,Dwight
+18,6,Crisis Management Squad.,Michael
+19,6,"F and C, doubletime?",Ryan
+20,6,Front and Center. Twice as fast as you would normally go.  Any other questions?,Michael
+21,6,One more.  Why are you talking like that?,Jim
+22,6,"To save time, Jim.",Michael
+23,6,Actually I think you could make the argument that it wastes time.,Karen
+24,6,"Yeah, she has a good point.  I mean, for example, with the last thing you said, by the time you explained it, it actually took up more time.",Pam
+25,6,You know what? Bluh bluh bluh bluh bluh!  Forget it.  Where is Creed?,Michael
+26,6,Here.,Creed
+27,6,"Creed.  Quality assurance.  Your job.  I really think you screwed the pooch on one, Creed.  Because of you, the entire company is in jeopardy.",Michael
+28,7,"Every week I'm supposed to take four hours and do a quality spot-check at the paper mill.  And of course the one year I blow it off, this happens.",Creed
+29,8,"We have a lot of angry customers out there.  This puts us at threat level midnight.  Accounting, you are on customer service duty today.",Michael
+30,8,That's really not our job.,Oscar
+31,8,"Midnight, Oscar!",Michael
+32,8,Kelly's training us?,Angela
+33,9,This day is bananas. B-A-N-A-N-A-S.  This,Kelly
+34,10,[getting a pill from the bottle] I don't have a headache.  I'm just preparing.,Angela
+35,11,"Jim, big fire in your house.  Your client, Dunmore High-school, sent out their prom invitations on this paper.  Went home to all the kids.",Michael
+36,11,"Yeah, I gotta call out on that.",Jim
+37,11,"No, no, no, no.  Not good enough.  This is a keystone account.  I want you in the school.  In person.",Michael
+38,11,All right.,Jim
+39,11,I want you to bring a partner.,Michael
+40,11,I'll go.,Ryan
+41,11,"No, sweet cheeks.  We need someone who's actually made a sale.  Andy, you go.",Michael
+42,11,"[English accent] William Dolittle at your service.  A.K.A., Will Do.",Andy
+43,11,"Yeah, I'm definitely gonna go alone.",Jim
+44,11,"No, no.  I need two men on this.  That's what she said.  No time!  But she did.  NO TIME!  Guys, get on this.  Dwight, I want you to be in charge of the press conference.",Michael
+45,11,Yes!  You are entering the 'No Spin Zone!',Dwight
+46,11,We're having a press conference?,Pam
+47,11,"No, Pam.  The press is just gonna find out by themselves.",Michael
+48,11,Not! [scoffs],Dwight
+49,12,"Here's the thing.  When a company screws up, best thing to do is call a press conference.  Alert the media, and then you control the story.  Wait for them to find out, and the story controls you.  That's what happened to O.J.",Michael
+50,13,"I have invited Barbara Allen, one of our oldest clients, to come in here, and meet with me, for a personal apology.  The press wants a story, I will give them a story.",Michael
+51,13,"Oh, did the press ask for a story?",Jim
+52,13,Here,Michael
+53,14,"Yes, hello.  Creed Bratton, Quality Assurance, Dunder Mifflin Scranton.  I was supposed to meet with one of your floor managers last week for a quality inspection, and he or she wasn't there.  And I'm trying to remember who it was.  Mm-hmm.  Who wasn't there last week?  Debbie Brown.  And which day was that?  Wednesday, the eleventh.  Perfect.",Creed
+54,15,The only difference between me and a homeless man is this job.  I will do whatever it takes to survive.  Like I did... when I was a homeless man.,Creed
+55,16,"Look, I know the reason that you guys became accountants is because you're not good at interacting with people.  But guess what?  From now on, you guys are no longer losers!  So give yourselves a round of applause.  [Kelly and Kevin clap]",Kelly
+56,16,I wonder how many phone calls you're missing while you're teaching us to answer calls.,Oscar
+57,16,"I know, right?  Probably a lot.",Kelly
+58,16,Can you just tell us what we need to do so we can go?,Angela
+59,16,"OK, Angela.  I love your enthusiasm.  All you need to know how to do is pick up the phone and say 'Customer Service, this is Kelly!'  Except don't say 'Kelly,' say your own name.  Or if you're bored, you can just make up a name.  Like one time, I said I was Bridget Jones, [in an English accent] and I talked like this for the whole conversation!",Kelly
+60,16,"Oh! Can I be [horrible Australian accent] Australian, mate?",Kevin
+61,16,[in accent] Absolutely!,Kelly
+62,16,"[in accent] 'ello, mate!",Kevin
+63,16,[in accent] I like ice cream!  I need a boyfriend.,Kelly
+64,16,"[in accent] I like ice cream too, mate.  Alligators and dingo babies.",Kevin
+65,17,Beer me!,Andy
+66,17,What's that?,Jim
+67,17,Hand me that water.  I always say 'Beer me.'  Gets a laugh like a quarter of the time.  So how's what's-her-name?,Andy
+68,17,You know her name.,Jim
+69,17,"Who, Karen?  Yeah, she's only one of my oldest friends.  [takes swig of water] Mmm.  How's the apartment hangin'?",Andy
+70,17,It's fine.,Jim
+71,17,"Nice.  Check out this sunshine, man.  Global warming, right?  Today was supposed to be really cold, I bet.",Andy
+72,17,What about music?  Do you have any music?,Jim
+73,17,"Uh, yeah.  Should have said so.  [sings] Rha-dah-dah-dah!  Give me the beat, boys, and free my soul.  I wanna get lost in your rock and roll and drift away-he-hay.  Ruu-da-doo-da-doo, ba-dit-da-doo-da-dun, Give me the beat, boys, and free my little-ole-soul, I wa--",Andy
+74,17,"I was thinkin' about more like a CD, or... a CD.",Jim
+75,17,"Your call, dude.  My girlfriend made an awesome mix.  Beer me that disc.",Andy
+76,18,"Lord, beer me strength.",Jim
+77,19,"So, Tuna.  When we get in there, let's do a really good job, okay?",Andy
+78,19,Did that,Jim
+79,19,Well not everything a guy says needs to be said.  Sometimes it's just about the music of the conversation.,Andy
+80,20,Whoa!  What the--- Why is my girlfriend here?,Andy
+81,20,"Oh, is she that teacher in the white?",Jim
+82,20,"No, she's a part-time frozen yogurt chef.",Andy
+83,20,Which one... is she?,Jim
+84,20,The one in the green hoodie.,Andy
+85,20,Wow.,Jim
+86,20,"I wonder if she's, like, a... a guidance counselor, or something?",Andy
+87,20,"No, I don't think so.",Jim
+88,20,"She's like, probably a tutor.",Andy
+89,20,Nope.,Jim
+90,20,She probably a t--,Andy
+91,20,No.,Jim
+92,20,Sh---,Andy
+93,20,No.,Jim
+94,21,"OK, press conference in 45.  Dwight, make sure this place looks nice.",Michael
+95,21,"On it.  OK, Karen, Ryan, Pam, center stage.  Pam, run a comb through your hair.",Dwight
+96,22,"First rule in road-side beet sales: Put the most attractive beets on top.  The ones that make you pull the car over and go, 'Wow, I need this beet right now.'  Those are the money beets.",Dwight
+97,23,"[Chad Lite walks in the door] [to Office workers] Hey!  [snaps twice] Look sharp!  [to Chad Lite] Hey!  Uh, Hi.  Hello, Dwight Schrute.",Dwight
+98,23,"Hi, uh---",Chad Lite
+99,23,"And you must be uh, from the Washington Post.",Dwight
+100,23,"Scranton Times.  Chad Lite, 'Lighter Side of Life.'",Chad Lite
+101,23,And 'Breaking Corporate News.',Dwight
+102,23,And obits.,Chad Lite
+103,23,"Oh, dear God.  OK, here are your credentials.  You've been granted level three security clearance.",Dwight
+104,23,Oh...,Chad Lite
+105,23,"Don't get too excited, that's out of 20.  Right this way.  Regional Manager Michael Scott will be addressing the client in the press room shortly.  Have a seat, can I get you a beverage?",Dwight
+106,23,"Uh, yeah, I'd like uh, uh---",Chad Lite
+107,23,[shuts door on him] Great.,Dwight
+108,24,"Oh, Andy.  You know what?  We don't have a",Jim
+109,24,Jamie!,Andy
+110,24,Andy--- Ohh...,Jim
+111,24,What are you doing here?,Andy
+112,24,Andy?,Jamie
+113,24,Are you a student here?,Andy
+114,24,Oh... yeah...,Jamie
+115,24,You never told me you were in high-school!,Andy
+116,24,This is weird.  I... gotta go to Spanish.,Jamie
+117,24,OH MY GOD!,Andy
+118,24,Oh my God.,Jim
+119,24,I had no idea.,Andy
+120,24,Well... that's not gonna hold up in court.,Jim
+121,24,Huh... We didn't do anything illegal.  Except knock over a mailbox with her friends.,Andy
+122,25,"[on phone] Sir, yes, you have a valid point.  I'm sorry.  No, I am",Kevin
+123,25,"[on phone] Really, Dixon City? ...Carbondale.",Oscar
+124,25,"[on phone] Excuse me?  Well, I don't see how that's our fault.  And I've already told you, the official position of Dunder Mifflin is apologetic, so I don't know what you want from me. [hangs up]",Angela
+125,25,"OK, first, I just wanna say that you are doing",Kelly
+126,26,"When I went over Wednesday, for the spot-check, I got a call from Debbie Brown, saying she has an emergency dentist appointment.",Creed
+127,26,Emergency dentist appointment.,Dwight
+128,26,"Now I'm told she told her manager she had the flu.  I'm a trusting guy, but uh, I just wish Debbie Brown had been there.  We would have caught this.",Creed
+129,27,"Yes, I'll be sure someone returns your call.  I'm so sorry.  Bye.",Pam
+130,27,"Hello, I'm looking for Michael Scott.",Barbara
+131,28,"Mrs. Allen is our most important client... because every client is our most important client.  Even though she's a pretty unimportant client, really.",Michael
+132,29,"And so, with the eyes of the nation upon us, I would like to say that Dunder Mifflin truly regrets this unfortunate incident.  And, as a gesture of gratitude, for your continued loyalty, Mrs. Allen, I would like to present you with this novelty check, for six months of free paper or 25 reams, whichever comes first.",Michael
+133,29,[snaps picture with his camera phone] You look good in this.,Dwight
+134,29,"So, let us consider this matter ended.",Michael
+135,29,Well it isn't ended.  I'm... I'm very angry. I--- I could have lost business.,Barbara
+136,29,"I know, I know you're angry.  And we are truly, truly sorry.",Michael
+137,29,I don't accept your apology.  The watermark was obscene and horrifying.,Barbara
+138,29,"Well, we are extremely sorry.",Michael
+139,29,I don't accept.,Barbara
+140,30,I'll be with you in a moment.,School Official
+141,30,All right.,Jim
+142,31,Who was that guy she was talking to?  At her locker.,Andy
+143,31,Not important.  Because you're not dating her.  Because it's a felony.,Jim
+144,31,But who,Andy
+145,31,Probably,Jim
+146,32,The issue with the watermark is very serious.,School Official
+147,32,Absolutely.,Jim
+148,32,We teach our students that character counts.,School Official
+149,32,And you should.,Jim
+150,32,But---,School Official
+151,32,[scoffs] Pfft.  You don't teach it well enough.  One of your students is a,Andy
+152,32,Andy... is having a,Jim
+153,32,"I want to take out an ad, in your yearbook.  A full page, two words---",Andy
+154,32,Good luck.',Jim
+155,32,That's not what I had in mind.,Andy
+156,33,Ask where he's from.,Kelly
+157,33,[on phone] Where are you from?  Ohio?  That's nice.  So what do you want?  [to Kelly] He's upset about the watermark.,Angela
+158,33,"OK, great.  Now tell him that it was an unfortunate error, and we're doing everything we can do to fix it, and that you're sorry.",Kelly
+159,33,[on phone] It was an unfortunate error.,Angela
+160,33,And you're sorry.,Kelly
+161,33,"...and the company has already apologized, so you can take that apology or not. [hangs up] [to Kelly] I think he had Tourette's or something!",Angela
+162,34,"We... are going to do everything humanly possible, to ensure that this never happens again.",Michael
+163,34,"Well, it--- it doesn't help, because it already happened to me.",Barbara
+164,34,The watermark... it's a one time thing.,Michael
+165,34,I don't care!  It was disgusting.  Cartoon characters having sex?,Barbara
+166,34,May I point out that the sex appeared to be consensual?  Both animals were smiling.,Dwight
+167,34,OK...,Michael
+168,35,"I grew up on a farm.  I have seen animals having sex in every position imaginable.  Goat on chicken.  Chicken on goat.  Couple of chickens doin' a goat, couple of pigs watching.  Whoever drew this got it exactly right.",Dwight
+169,36,"What... can I do, for you?",Michael
+170,36,"I, for starters, I think that you should resign.",Barbara
+171,36,"Well... [exhales] OK, well...  Um, wasn't really my fault.  The guys at the papermill---",Michael
+172,36,You're the head---,Barbara
+173,36,The guys at the papermill--- No no no!,Michael
+174,36,You're the head of the company!,Barbara
+175,36,I'm,Michael
+176,36,"Yes, and that makes it your responsibility---",Barbara
+177,36,"No, I'm a regional manager---",Michael
+178,36,And so you should lose your job!,Barbara
+179,36,"No--- my--- OK, this is insane.  You can get out of here.  Get out!",Michael
+180,36,Fine.,Barbara
+181,36,That's insane.  We'll give this to somebody who will appreciate it.,Michael
+182,36,Mm-hmm.,Barbara
+183,36,It's non-transferable...,Dwight
+184,36,Doesn't matter.  Out please!,Michael
+185,36,I'm calling the Better Business Bureau.,Barbara
+186,36,"Yeah, well I'm calling the Ungrateful Bi-atch Hotline! [to Chad Lite] Did you get all that?",Michael
+187,36,Everything.,Chad Lite
+188,37,"We gotta do something. [exhales] This is spinning out of control, Pam.  This is just, not...",Michael
+189,37,It's just the Scranton Times...,Pam
+190,37,"No, then Newsweek picks it up.  And then CNN does a story about it.  Then... YouTube gets a hold of it...",Michael
+191,37,You know what?  I really think the whole thing is just gonna blow over in like a week or two.,Pam
+192,37,You're right.  It will blow over.  But it's not... going to take... a week or two.  [pulls out a video camcorder from his desk] Do you know what this is for?,Michael
+193,37,Yes.,Pam
+194,38,Michael likes me to run the camera when he makes his apology videos.  He says he needs a woman's touch.,Pam
+195,39,"[Dwight is spraying far too much hairspray into Michael's hair] OK, I think that's good.",Michael
+196,40,"Hello.  I am Michael Scott, Regional Manager of Dunder Mifflin Scranton.  By now you are probably sick of hearing about Dunder Mifflin and our embarrassing watermark boner.  Let me tell you something.  Something from the heart.  I am not leaving this office.  It will take a SWAT team, to remove me from this office, and maybe not even that.'",Michael
+197,40,"Uh, you could never withstand a SWAT team.",Dwight
+198,40,That's how devoted I am to this job.,Michael
+199,40,I'm just saying...,Dwight
+200,40,I know.,Michael
+201,40,They would flank you.  Throw in a concussion grenade.,Dwight
+202,40,"I understand that, Dwight.",Michael
+203,40,"You would be on the ground, blind, deaf, dumb.",Dwight
+204,40,"Do you think you're taking it a little... literally, Dwight?  And now we're wasting tape.  I'm gonna have to cut this all out.  Can you say cut?",Michael
+205,40,Cut.,Dwight
+206,40,So I'll know where---,Michael
+207,40,Cut.,Pam
+208,40,"I'm asking Pam to do it, please.",Michael
+209,40,Cut.,Pam
+210,40,"OK, ready?",Michael
+211,41,"Kevin, what's four plus seven?",Angela
+212,41,[thinks] Eleven.,Kevin
+213,41,"Yeah, well you didn't know that when you filled out this payroll form.",Angela
+214,41,"Yeah, well at least I didn't suck at customer relations.  Oooh, yes.  Facial.",Kevin
+215,41,[laughs] Yes. [air high five],Oscar
+216,41,You two are apes.,Angela
+217,41,"I expect you to apologize for that, Angela.",Oscar
+218,41,I'm sorry... that you're both morons.,Angela
+219,41,"Oh, but you still said 'I'm sorry.'",Kevin
+220,41,I called you morons.,Angela
+221,41,Still said it.,Kevin
+222,41,"Still said it, so... [Kevin and Oscar screw up an air high five]",Oscar
+223,42,"Five, four, three.  'There is no way, I will resign.  It wouldn't be fair.  Not to the good workers I work with, not to my clients, and especially not to me.  Let's not forget who this whole resigning business is about, anyway.  If I could leave you with one thought, remember... it wasn't me.  They're trying to make me an escape goat.  If I am fired, I swear to God, that every single piece of copier paper in this town is going to have the F-word on it.  The F-word.  You have one day.'",Michael
+224,42,One day for what?,Pam
+225,42,That's... they always give an ultimatum.,Michael
+226,42,OK.,Pam
+227,42,"Good, cut?",Michael
+228,42,Cut.  That was your best apology video ever.,Pam
+229,42,Thought so too.,Michael
+230,43,[to Dwight] Got a farewell card for Debbie Brown.  I thought maybe you'd like to sign it.  Maybe throw a couple of bucks in there for her.  She's got some children.,Creed
+231,44,"I feel terrible about Debbie Brown.  She got fired because of Dwight.  So I thought I'd pass around a goodbye card, maybe everyone could put in a couple of bucks to help her through these difficult times.  Why do bad things always happen to the good people?  It's tragic.  Just tragic.",Creed
+232,45,You want music?,Jim
+233,45,I don't care.,Andy
+234,45,"Come on man, just give it a couple days.  I think you'll be all right.",Jim
+235,45,Yeah.,Andy
+236,45,"[singing the intro to The Lion King's 'The Lion Sleeps Tonight'] A-wimowheh, a-wimowheh, a-wimowheh, a-wimowheh, a-wimowheh, a-wimowheh, a-wimowheh, a-wimowheh...",Jim
+237,45,You know what--- I don't---,Andy
+238,45,"A-wimowheh, a-wimowheh, a-wimowheh, a-wimowheh, a-wimowheh, a-wimowheh, a-wimowheh, a-wimowheh, a-wimowheh...",Jim
+239,45,[Joins in with classic Andy falsetto] Oooo-oo-oooo-ooo-oo-oooo-oo-ooo-ooo a-wi-imbube!,Andy
+240,45,"A-wimowheh, a-wimowheh, a-wimowheh, a-wimowheh, a-wimowheh...",Jim
+241,45,Oooo-oo-oooo-ooo-oo-oooo-oo-ooo-ooo a-wi-imbube!,Andy
+242,45,"A-wimowheh, a-wimowheh, a-wimowheh, a-wimowheh, a-wimowheh...",Jim
+243,45,Sweet.,Andy
+244,46,[walks in dressed as Jim] Pam.,Dwight
+245,46,"Hey, Dwight.  You look really nice today.",Pam
+246,46,[scoffs] Pssssh.  I look like an idiot. Hey Karen.,Dwight
+247,46,"Hey, Dwight, lookin' sharp.",Karen
+248,46,"Yeah, that's cause I'm... you're boyfriend, Jim Halpert.  Hey, Karen, wanna get t-together later and have sexual intercourse cause you're my girlfriend?",Dwight
+249,46,Do you?,Jim
+250,46,No.,Karen
+251,46,OK.,Jim
+252,46,I'm good.  Thanks.,Karen
+253,46,[Dwight imitates the 'Jim face'] Look at that.,Jim
+254,46,I'm Jim Halpert. [more horrible 'Jim faces'],Dwight
+255,46,Spot on.,Jim
+256,46,"Ah-luh-luh, a little comment.  Muh.",Dwight
+257,47,"Oh my God, I am so sorry, that is so messed up. Everyone here is so upset, you have no idea. And rest assured your voice has been heard. Okay, I'll be thinking about you all day. Customer service, this is Kelly. Oh my God, I am so sorry, that is so messed up. Everyone here is so upset, you have no idea. And rest assured your voice has been heard. Okay, I'll be thinking about you all day.",Kelly
+258,48,"Customer service, this is Kelly. Oh my God, I am so sorry, that is so messed up. Everyone here is so upset, you have no idea. I'll be thinking about you all day. Customer service, this is Kelly. Oh my God, I am so sorry, that is so messed up. Everyone here is so upset, you have no idea. I'll be thinking about you all day. Customer service, this is Kelly. Oh my God, I am so sorry, that is so messed up. Everyone here is so upset, you have no idea. I'll be thinking about you all day.",Ryan
+259,49,"The key to a crisis is dealing with it right away. Like that aspirin company that sent out the poisoned aspirin in the regular aspirin bottles. If you don't act fast, you will lose customers.",Michael
+260,50,"Hello, CNN? I need to speak to your Scranton-area bureau chief? All right, then the bureau chief for the Greater Wilkes-Barre area? How about, ah, Lackawanna County. Okay, Northeastern Pennsylvania then. This is extremely urgent! No... you put",Dwight
+261,51,Customer service isn't like accounting. It's not just typing numbers into a calculator and then it tells you an answer.,Kelly
+262,51,We do a lot more than that.,Oscar
+263,51,"Okay, or hand out checks, or whatever it is you do. Look, I know the reason that you guys became accountants is because you think that people don't like you. But guess what, from now on you guys are not losers! So give yourselves a round of applause.",Kelly
+264,51,I wonder how many phone calls you're missing while you're teaching us to answer phone calls.,Oscar
+265,51,The annex rocks.  All you need to do is make sure that you make a connection with the customer. They just wanna know that you're sorry. Do that and you'll be fine. Make sense?,Kelly
+266,51,Mm-hm.,Angela
+267,51,"Okay, role-playing time!",Kelly
+268,51,"Alright, I think I'm trained.",Angela
+269,51,"Ooh, can I be a pirate?",Kevin
+270,52,[hums],Creed
+271,52,Hello.,Chad Lite
+272,52,Hey!,Creed
+273,52,"Excuse me. You're Creed Bratton, guitar player for Grass Roots in the late 1960s.",Chad Lite
+274,52,I am indeed. How'd you know that?,Creed
+275,52,I wrote your obituary.,Chad Lite
+276,52,"Oh, oh that's right! Good work. Thank you very much, sir [shakes hand].",Creed
+277,53,"About 10 years ago, for tax reasons, I faked my own death. I've been collecting benefits as my own widow ever since.",Creed
+278,54,"Oh, my God!",Andy
+279,54,"Oh, my God! Wow.",Jim
+280,54,I had no idea.,Andy
+281,54,Then you did nothing wrong. We should go.,Jim
+282,54,How could I not have realized?,Andy
+283,54,She looks older.,Jim
+284,54,"Yeah, she does, doesn't she?",Andy
+285,54,No.,Jim
+286,54,"She acts older, too. She knows everything about European history, and photosynthesis, and she made me this lanyard with, like, a Fimo clay thing. She's a real Renaissance woman.",Andy
+287,54,Or a high school girl. Let's go [mouths 'wow' to the camera].,Jim
+288,55,Chicken pot pie.,Andy
+289,55,What's that?,Jim
+290,55,"That's what I was eating, in the parking lot of a 7-Eleven for dinner. And I got out of the car to shake the crumbs off my shirt, and this smoking hot woman comes up and we strike up a conversation.",Andy
+291,55,Oh. You don't have to tell me this.,Jim
+292,55,She lets me buy her and her friends some wine coolers for a dinner party she's going to.,Andy
+293,55,You shouldn't be talking about that.,Jim
+294,55,"I threw in some scratch tickets, 'cause generous guy, and next thing you know we're making out in the woods.",Andy
+295,55,Hypothetically. Hypothetically you were making out in the woods.,Jim
+296,55,"No, we were really making out in the woods.",Andy
+297,55,"No, can't help you now.",Jim
+298,55,I gotta go talk to her.,Andy
+299,55,No. D-,Jim
+300,56,"With dissatisfied clients, it doesn't matter what you did. All they wanna hear is that you're sorry. They're like women that way. And this client is a woman. So when I say I'm sorry, it will be twice as effective.",Michael
+301,57,So we're good?,Michael
+302,57,"No, we're not.",Barbara Allen
+303,57,I'm sorry.,Michael
+304,57,"Well, okay. But I don't accept.",Barbara Allen
+305,57,[whispering] Say you're sorry times infinity...,Dwight
+306,57,Okay.,Michael
+307,57,...'cause there's no comeback for that.,Dwight
+308,57,All right. We are infinitely sorry.,Michael
+309,57,I'm still furious.,Barbara Allen
+310,57,You understand? You... you get this check.,Michael
+311,57,Mmm.,Barbara Allen
+312,58,Can I help you?,Spanish Teacher
+313,58,"Yeah. I'm Mr. Bernard Johnson, MD. I'd like to talk with Jamie about a certain heart condition. Diagnosis: broken.",Andy
+314,58,"Get out of here, Andy.",Jamie
+315,58,Who's this guy?,Andy
+316,58,My boyfriend.,Jamie
+317,58,You're such a liar.,Andy
+318,58,"Sir? You need to get out of here, before I call the police, okay?",Spanish Teacher
+319,58,"Yeah, maybe you should call the police. See whose side they take. Warning, most cops are dudes.",Andy
+320,58,"Dr. Johnson, we need you in surgery right away.",Jim
+321,58,What?,Spanish Teacher
+322,59,"I don't believe in apologies. When someone in the yakuza makes a mistake, they cut off a portion of their own pinky finger. And in that way, save face. And knowing the Japanese, they probably get an even better prosthetic finger. With a knife you can take out of it, or a screwdriver or a corkscrew.",Dwight
+323,60,Why am I getting all of the bad ones?,Angela
+324,60,Why can't you just say you're sorry and make them feel better?,Kelly
+325,60,"I'm not gonna lie and say I'm sorry when the company didn't do anything wrong. That's immoral, and this is ridiculous.",Angela
+326,60,"Would you, please? Please.",Oscar
+327,60,"Well, you have to do what I say, okay? Because Michael put me in charge, even though you're old enough to be my mother.",Kelly
+328,60,"What? Well what you say is stupid, and your job is pointless. And you're a slut and everyone thinks so.",Angela
+329,60,"Well, you're fired, okay? Go back to accounting, Angela.",Kelly
+330,60,Gladly. I quit.,Angela
+331,61,"If cartoon characters didn't have sex, then how would we get new cartoon characters? From the sex! [giggles]",Kevin
+332,62,The customer is always right. Mrs. Allen was our customer. She was wrong. Is that a contradiction? No. Because she's not our customer anymore.,Michael
+333,63,Michael likes me to run the camera when he makes his apology videos. My favorite is the one for his mother.,Pam
+334,64,"Hey, Mom. Happy birthday, belatedly. Sorry I forgot. I had put it on my calendar and Pam threw that out.",Michael
+335,65,My personal favorite is the one he made for his condo association.,Pam
+336,66,"And without denying the seriousness of the situation, I would just like to remind you that in much of the Netherlands, swimming naked is the norm. So in Norway, you'd be the weirdos.",Michael
+337,67,"Okay, Andy, we need to go. Seriously.",Jim
+338,67,"Dude, there she is. Don't look, don't look. She's sitting with Denise. How am I supposed to do this? Denise hates me.",Andy
+339,67,Don't do it.,Jim
+340,67,"What is your problem, man? Can't you support a bro? That's why you don't have any friends, Tuna. I'm sorry. I'm sorry. I just, I need...",Andy
+341,67,That's okay.,Jim
+342,67,...your help. I love her.,Andy
+343,67,What?,Jim
+344,67,"Yeah. I lo- I love her. Is this what love is?  This, like, horrible feeling in my stomach?",Andy
+345,67,"No, that's your conscience. Listen to it.",Jim
+346,67,"Look, okay, just be my wingman. Beer me five minutes. Talk to Denise. She's really into White Russians and whippets.",Andy
+347,68,"Jamie, can I talk to you for a second?",Andy
+348,68,Yeah. I only have a minute.,Jamie
+349,68,"[sits down next to Denise] So, high school.",Jim
+350,68,Do you have a cigarette?,Denise
+351,68,"Oh, I don't smoke. Sorry.",Jim
+352,68,There's nothing to do in this town.,Denise
+353,68,You should take up a musical instrument.,Jim
+354,68,"Yeah, I should take up that. Jamie?",Denise
+355,68,"Hey, uh, does Mr. Nortman still teach here? He's a jerk, right?",Jim
+356,68,"He's dead. Hey, do you have any weed?",Denise
+357,68,"No, nope. What else? What else? You watch The Hills? What is Heidi thinking?",Jim
+358,68,How old are you?,Denise
+359,68,How old do you think I am?,Jim
+360,68,Forty?,Denise
+361,68,[shakes head],Jim
+362,68,Are you someone's dad here?,Denise
+363,68,Not that I know of.,Jim
+364,68,Ew. What kind of car do you have?,Denise
+365,68,I drive a Saab station wagon.,Jim
+366,68,My dad just gave me his old Lexus.,Denise
+367,68,"Really? Way to earn it. Hey, Andy?",Jim
+368,68,What?,Andy
+369,68,Yup.,Jim
+370,69,Very well [hangs up phone]. I just got a call from Debbie Brown over at the mill. She claims innocence and is willing to come over here and defend herself.,Dwight
+371,69,"No time. Dwight, I love Debbie Brown. She's a close personal friend. But quality is my life. This company has a reputation to uphold. As much as it pains me, someone has to be held accountable.",Creed
+372,69,You're right. Mercy is for girl-babies. Time to put this dog down.,Dwight
+373,70,Are we ready?,Michael
+374,70,Final touch-ups.,Dwight
+375,70,Okay. Am I shiny?,Michael
+376,70,Yeah.,Dwight
+377,70,"Okay. We good? Okay, that's enough Aqua Net.",Michael
+378,70,I don't know...,Dwight
+379,70,[clears throat] Stop it.,Michael
+380,70,[coughs],Dwight
+381,71,"Hey, Angela. I'm sorry that I said you were old enough to be my mother. I don't know why I said that. I think I might be hypoglycemic or something, but still, it's no excuse. So, I'm very sorry.",Kelly
+382,71,"Oh. Thank you, Kelly [long pause]. And I wish I hadn't called you stupid.",Angela
+383,71,Do you think I'm a slut?,Kelly
+384,71,"No, but some of your outfits are not appr-",Angela
+385,71,Apology accepted! [hugs Angela],Kelly
+386,71,I didn't apologize.,Angela
+387,71,We're like best friends now!,Kelly
+388,71,We're not.,Angela
+389,71,I'll text you!,Kelly
+390,71,Don't!,Angela
+391,71,"Bye, Angela!",Kelly
+392,71,Fine.,Angela
+393,72,"That is all I was looking for today. She got something out of my training session. I mean, she will never work in customer relations. Oh, my God, no. Never. But maybe she'll be less of a grump.",Kelly
+394,73,Kelly's not so bad. She really taught me something today [rolls eyes].,Angela
+395,74,"I have literally apologized an infinite number of times on this, and there are still calls for me to resign. Calls from an annoying woman, and possibly even the media alike. Well let me tell you something, something from the heart. I will not resign. I need this job. My mortgage is hundreds of dollars a month. With this job, I can barely cover that. I have a company car, but I still have to pay for gas, and gas prices are high. And I have no savings whatsoever. And it wasn't even me. It's so not fair that they want me to resign.",Michael
+396,75,"...to the fullest extent of the law [hangs up phone]. Listen up, everyone! I just got off the phone with the mill.  Final responsibility for Watermark-gate has been assigned. Floor manager Debbie Brown has officially been terminated. Lets give a big hand to Creed Bratton, without whose earnest and diligent sleuthing this scandal might never have been resolved [claps].",Dwight
+397,75,"Just doing my job, guys.",Creed
